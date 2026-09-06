@@ -1,0 +1,29 @@
+{
+  "n_patients": 1000,
+  "n_visits": 7074,
+  "visits_per_patient": 7.074,
+  "adherence_rate": 0.6014984450098954,
+  "discontinuation_rate": 0.0031099802092168505,
+  "treatment_distribution": {
+    "1": 2752,
+    "2": 2395,
+    "0": 1927
+  },
+  "gender_distribution": {
+    "F": 3837,
+    "M": 3237
+  },
+  "ethnicity_distribution": {
+    "Caucasian": 3620,
+    "African American": 1405,
+    "Hispanic": 1067,
+    "Asian": 572,
+    "Other": 410
+  },
+  "age_stats": {
+    "mean": 50.05315238903025,
+    "std": 14.287280995100495,
+    "min": "18",
+    "max": "90"
+  }
+}
