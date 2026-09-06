@@ -1,0 +1,22 @@
+{
+  "0": {
+    "median_survival_days": null,
+    "observed_events": 6,
+    "total_subjects": 274
+  },
+  "1": {
+    "median_survival_days": null,
+    "observed_events": 10,
+    "total_subjects": 392
+  },
+  "2": {
+    "median_survival_days": null,
+    "observed_events": 6,
+    "total_subjects": 334
+  },
+  "logrank_test": {
+    "chi2": 2096.6247092761305,
+    "p_value": 0.0,
+    "degrees_of_freedom": 1
+  }
+}
